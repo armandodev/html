@@ -8,17 +8,17 @@
 
 ## Exercises
 
-* **HELLO WORLD** — introduction to HTML. [**[SOLUTION](./projects/00-hello-world/)**]
-* **TAGS** — understanding tags. [**[SOLUTION](./projects/01-tags/)**]
-* **ATTRIBUTES** — what is tag's attributes. [**[SOLUTION](./projects/02-attributes/)**]
-* **INLINE TAGS** — tags for styling text. [**[SOLUTION](./projects/03-inline-tags/)**]
-* **HEADINGS** — tags for headings. [**[SOLUTION](./projects/04-headings/)**]
-* **LISTS** — how to create a list with HTML tags. [**[SOLUTION](./projects/05-lists/)**]
-* **TABLES** — how to compose data in table. [**[SOLUTION](./projects/06-tables/)**]
-* **BLOCKS** — block tags and semantic. [**[SOLUTION](./projects/07-blocks/)**]
-* **LINKS AND REFERENCES** — how to leave a references to another page. [**[SOLUTION](./projects/08-links-and-references/)**]
-* **FORMS** — creating of forms with control elements. [**[SOLUTION](./projects/09-forms/)**]
-* **STYLES AND SCRIPTS** — injecting styles and scripts on a page. [**[SOLUTION](./projects/10-styles-and-scripts/)**]
+* **HELLO WORLD** — introduction to HTML. [**[SOLUTION](./projects/00-hello-world/index.html)**]
+* **TAGS** — understanding tags. [**[SOLUTION](./projects/01-tags/index.html)**]
+* **ATTRIBUTES** — what is tag's attributes. [**[SOLUTION](./projects/02-attributes/index.html)**]
+* **INLINE TAGS** — tags for styling text. [**[SOLUTION](./projects/03-inline-tags/index.html)**]
+* **HEADINGS** — tags for headings. [**[SOLUTION](./projects/04-headings/index.html)**]
+* **LISTS** — how to create a list with HTML tags. [**[SOLUTION](./projects/05-lists/index.html)**]
+* **TABLES** — how to compose data in table. [**[SOLUTION](./projects/06-tables/index.html)**]
+* **BLOCKS** — block tags and semantic. [**[SOLUTION](./projects/07-blocks/index.html)**]
+* **LINKS AND REFERENCES** — how to leave a references to another page. [**[SOLUTION](./projects/08-links-and-references/index.html)**]
+* **FORMS** — creating of forms with control elements. [**[SOLUTION](./projects/09-forms/index.html)**]
+* **STYLES AND SCRIPTS** — injecting styles and scripts on a page. [**[SOLUTION](./projects/10-styles-and-scripts/index.html)**]
 
 ## Original Author Repository
 
