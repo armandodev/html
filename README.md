@@ -2,6 +2,15 @@
 
 Welcome to the **html** repository! This repository is a compilation of various web development projects with a primary emphasis on Hypertext Markup Language (HTML). Each project is systematically organized within the "projects" directory, following a standardized naming convention for clarity and seamless exploration.
 
+## Resources
+
+The following are resources to help you learn HTML:
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML). This is an excellent resource for learning HTML and web development in general.
+- [learnyouhtml](https://github.com/denysdovhan/learnyouhtml). This is a command-line work shopper for learning HTML.
+- [lenguajehtml](https://lenguajehtml.com/html/). This is a complete guide to learning HTML in Spanish.
+- [htmlreference](https://htmlreference.io/). This is a glossary of HTML elements and attributes.
+
 ## Project Structure
 
 Within the "projects" directory, you'll discover distinct web development projects, each identified by a two-digit number followed by the project name. Here's an example to illustrate the structure:
