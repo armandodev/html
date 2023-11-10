@@ -35,7 +35,7 @@ The following is a list of projects in this repository:
 
 ## Feedback & Contributions
 
-Your input is highly valuable! If you come across any issues, have inquiries, wish to contribute projects, or have suggestions for new ones, or if you want to discuss anything related to the projects, please don't hesitate to reach out at [your.email@example.com](mailto:your.email@example.com). Let's collaborate and enhance our skills together!
+Your input is highly valuable! If you come across any issues, have inquiries, wish to contribute projects, or have suggestions for new ones, or if you want to discuss anything related to the projects, please don't hesitate to reach out at [jorge.armando.c.cardenas@gmail.com](mailto:jorge.armando.c.cardenas@gmail.com). Let's collaborate and enhance our skills together!
 
 ## License
 
