@@ -8,17 +8,17 @@
 
 ## Exercises
 
-* **HELLO WORLD** — introduction to HTML. [**[SOLUTION](./projecs/00-hello-world/)**]
-* **TAGS** — understanding tags. [**[SOLUTION](./projecs/01-tags/)**]
-* **ATTRIBUTES** — what is tag's attributes. [**[SOLUTION](./projecs/02-attributes/)**]
-* **INLINE TAGS** — tags for styling text. [**[SOLUTION](./projecs/03-inline-tags/)**]
-* **HEADINGS** — tags for headings. [**[SOLUTION](./projecs/04-headings/)**]
-* **LISTS** — how to create a list with HTML tags. [**[SOLUTION](./projecs/05-lists/)**]
-* **TABLES** — how to compose data in table. [**[SOLUTION](./projecs/06-tables/)**]
-* **BLOCKS** — block tags and semantic. [**[SOLUTION](./projecs/07-blocks/)**]
-* **LINKS AND REFERENCES** — how to leave a references to another page. [**[SOLUTION](./projecs/08-links-and-references/)**]
-* **FORMS** — creating of forms with control elements. [**[SOLUTION](./projecs/09-forms/)**]
-* **STYLES AND SCRIPTS** — injecting styles and scripts on a page. [**[SOLUTION](./projecs/10-styles-and-scripts/)**]
+* **HELLO WORLD** — introduction to HTML. [**[SOLUTION](./projects/00-hello-world/)**]
+* **TAGS** — understanding tags. [**[SOLUTION](./projects/01-tags/)**]
+* **ATTRIBUTES** — what is tag's attributes. [**[SOLUTION](./projects/02-attributes/)**]
+* **INLINE TAGS** — tags for styling text. [**[SOLUTION](./projects/03-inline-tags/)**]
+* **HEADINGS** — tags for headings. [**[SOLUTION](./projects/04-headings/)**]
+* **LISTS** — how to create a list with HTML tags. [**[SOLUTION](./projects/05-lists/)**]
+* **TABLES** — how to compose data in table. [**[SOLUTION](./projects/06-tables/)**]
+* **BLOCKS** — block tags and semantic. [**[SOLUTION](./projects/07-blocks/)**]
+* **LINKS AND REFERENCES** — how to leave a references to another page. [**[SOLUTION](./projects/08-links-and-references/)**]
+* **FORMS** — creating of forms with control elements. [**[SOLUTION](./projects/09-forms/)**]
+* **STYLES AND SCRIPTS** — injecting styles and scripts on a page. [**[SOLUTION](./projects/10-styles-and-scripts/)**]
 
 ## Original Author Repository
 
