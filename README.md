@@ -24,17 +24,17 @@ Feel free to explore each project to delve into specific aspects of HTML and web
 
 ## Exercises
 
-* **HELLO WORLD** — introduction to HTML. [**[SOLUTION](./projects/00-hello-world/index.html)**]
-* **TAGS** — understanding tags. [**[SOLUTION](./projects/01-tags/index.html)**]
-* **ATTRIBUTES** — what is tag's attributes. [**[SOLUTION](./projects/02-attributes/index.html)**]
-* **INLINE TAGS** — tags for styling text. [**[SOLUTION](./projects/03-inline-tags/index.html)**]
-* **HEADINGS** — tags for headings. [**[SOLUTION](./projects/04-headings/index.html)**]
-* **LISTS** — how to create a list with HTML tags. [**[SOLUTION](./projects/05-lists/index.html)**]
-* **TABLES** — how to compose data in table. [**[SOLUTION](./projects/06-tables/index.html)**]
-* **BLOCKS** — block tags and semantic. [**[SOLUTION](./projects/07-blocks/index.html)**]
-* **LINKS AND REFERENCES** — how to leave a references to another page. [**[SOLUTION](./projects/08-links-and-references/index.html)**]
-* **FORMS** — creating of forms with control elements. [**[SOLUTION](./projects/09-forms/index.html)**]
-* **STYLES AND SCRIPTS** — injecting styles and scripts on a page. [**[SOLUTION](./projects/10-styles-and-scripts/index.html)**]
+* **00 HELLO WORLD** — introduction to HTML. [**[SOLUTION](./projects/00-hello-world/index.html)**]
+* **01 TAGS** — understanding tags. [**[SOLUTION](./projects/01-tags/index.html)**]
+* **02 ATTRIBUTES** — what is tag's attributes. [**[SOLUTION](./projects/02-attributes/index.html)**]
+* **03 INLINE TAGS** — tags for styling text. [**[SOLUTION](./projects/03-inline-tags/index.html)**]
+* **04 HEADINGS** — tags for headings. [**[SOLUTION](./projects/04-headings/index.html)**]
+* **05 LISTS** — how to create a list with HTML tags. [**[SOLUTION](./projects/05-lists/index.html)**]
+* **06 TABLES** — how to compose data in table. [**[SOLUTION](./projects/06-tables/index.html)**]
+* **07 BLOCKS** — block tags and semantic. [**[SOLUTION](./projects/07-blocks/index.html)**]
+* **08 LINKS AND REFERENCES** — how to leave a references to another page. [**[SOLUTION](./projects/08-links-and-references/index.html)**]
+* **09 FORMS** — creating of forms with control elements. [**[SOLUTION](./projects/09-forms/index.html)**]
+* **10 STYLES AND SCRIPTS** — injecting styles and scripts on a page. [**[SOLUTION](./projects/10-styles-and-scripts/index.html)**]
 
 ## Original Author Repository
 
