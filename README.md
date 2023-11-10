@@ -29,6 +29,7 @@ Feel free to explore each project to delve into specific aspects of HTML and web
 * **08 LINKS AND REFERENCES** — How to leave a references to another page. [**[SOLUTION](./projects/08-links-and-references/index.html)**]
 * **09 FORMS** — Creating of forms with control elements. [**[SOLUTION](./projects/09-forms/index.html)**]
 * **10 STYLES AND SCRIPTS** — Injecting styles and scripts on a page. [**[SOLUTION](./projects/10-styles-and-scripts/index.html)**]
+* **11 PORTFOLIO** — Creating a portfolio page. [**[SOLUTION](./projects/11-portfolio/index.html)**]
 
 ## Feedback & Contributions
 

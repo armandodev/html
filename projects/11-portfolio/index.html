@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio de @armandodev</title>
+
+    <meta
+      name="description"
+      content="Portfolio de Armando Dev, desarrollador web full stack"
+    />
+
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#09f" />
+
+    <meta property="og:title" content="Portfolio de @armandodev" />
+    <meta
+      property="og:description"
+      content="Portfolio de Armando Dev, desarrollador web full stack"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="./img/og-image.png" />
+    <meta
+      property="og:image:alt"
+      content="Portfolio de @armandodev, desarrollador web full stack"
+    />
+
+    <link rel="alternate" href="/en" hreflang="en" />
+    <link rel="canonical" href="/" />
+    <link rel="shortcut icon" href="favicon.svg" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <h1>Portfolio de @armandodev</h1>
+
+      <nav>
+        <a href="#experience">Experiencia</a>
+        <a href="#projects">Proyectos</a>
+      </nav>
+    </header>
+
+    <dialog id="dialog">
+      <h2>Información adicional</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+        voluptatum, voluptate, quibusdam, quia voluptas quos dolorum
+        exercitationem quod voluptatibus quas quidem. Quisquam voluptatum,
+        voluptate, quibusdam, quia voluptas quos dolorum exercitationem quod
+        voluptatibus quas quidem.
+      </p>
+      <button id="hide">Cerrar</button>
+    </dialog>
+
+    <button id="show">Ver más información</button>
+
+    <script>
+      window.show.addEventListener("click", () => {
+        window.dialog.showModal();
+      });
+
+      window.hide.addEventListener("click", () => {
+        window.dialog.close();
+      });
+    </script>
+
+    <main>
+      <p>
+        +3 años de experiencia como "<strong
+          >desarrollador web full stack</strong
+        >".
+      </p>
+      <h2 id="experience">Experiencia</h2>
+      <ul>
+        <li>Google - 2022</li>
+        <li>Facebook - 2021</li>
+        <li>Microsoft - 2020</li>
+      </ul>
+
+      <a download href="./img/armandodev.jpg">
+        <img
+          src="./img/armandodev.jpg"
+          alt="Image of armandodev"
+          width="200"
+          height="200"
+        />
+      </a>
+      
+      <section>
+        <h3>Mis tecnologías favoritas</h3>
+
+        <ol>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>Node.js</li>
+        </ol>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; Todos los derechos reservados | @armandodev</p>
+    </footer>
+  </body>
+</html>
